@@ -1,0 +1,11 @@
+{
+  "display_name": "Zap Coquette",
+  "loading_order": 50,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "SEU_USUARIO",
+  "version": "1.0.0",
+  "homePage": "https://github.com/SEU_USUARIO/st-zap-coquette"
+}
