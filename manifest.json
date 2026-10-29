@@ -1,11 +1,11 @@
 {
-  "display_name": "Zap Coquette",
+  "display_name": "MorangoZap 🍓",
   "loading_order": 50,
   "requires": [],
   "optional": [],
   "js": "index.js",
   "css": "style.css",
-  "author": "SEU_USUARIO",
+  "author": "SEU_NOME",
   "version": "1.0.0",
-  "homePage": "https://github.com/SEU_USUARIO/st-zap-coquette"
+  "homePage": "https://github.com/SEU_USUARIO/SillyTavern-MorangoZap"
 }
